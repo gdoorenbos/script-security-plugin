@@ -341,6 +341,7 @@ staticField java.util.concurrent.TimeUnit HOURS
 staticField java.util.concurrent.TimeUnit MINUTES
 method java.util.regex.MatchResult group int
 method java.util.regex.Matcher group java.lang.String
+method java.util.regex.Matcher find
 method java.util.regex.Matcher matches
 method java.util.regex.Matcher replaceAll java.lang.String
 method java.util.regex.Matcher replaceFirst java.lang.String
